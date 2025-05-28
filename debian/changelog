@@ -1,0 +1,29 @@
+ros-jazzy-canopen-inventus-interfaces (0.1.3-1noble) noble; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Wed, 28 May 2025 04:00:00 -0000
+
+ros-jazzy-canopen-inventus-interfaces (0.1.2-1noble) noble; urgency=high
+
+  * Updated package.xml to be BSD-3-Clause licence.
+  * Contributors: Tony Baltovski
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Tue, 27 May 2025 04:00:00 -0000
+
+ros-jazzy-canopen-inventus-interfaces (0.1.1-1noble) noble; urgency=high
+
+  * Fixed missing dependency.
+  * Contributors: Tony Baltovski
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Thu, 22 May 2025 04:00:00 -0000
+
+ros-jazzy-canopen-inventus-interfaces (0.1.0-1noble) noble; urgency=high
+
+  * Add build_type ament_cmake
+  * Rework to use typed structures
+  * Contributors: Luis Camero
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Thu, 22 May 2025 04:00:00 -0000
+
+
