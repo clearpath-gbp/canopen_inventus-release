@@ -2,6 +2,9 @@
 Changelog for package canopen_inventus_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2025-05-28)
+------------------
+
 0.1.2 (2025-05-27)
 ------------------
 * Updated package.xml to be BSD-3-Clause licence.
